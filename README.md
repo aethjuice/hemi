@@ -20,7 +20,9 @@ cat ~/popm-address.json
 sudo systemctl restart heminetwork
 ```
 ### Check Logs
+```sh
 journalctl -u heminetwork -f
+```
 
 ### Check explorer
 - https://pop-miner.hemi.xyz/fund
