@@ -6,6 +6,10 @@ log() {
   echo "[$level] $message"
 }
 
+command_exists() {
+    command -v "$1" >/dev/null 2>&1
+}
+
 echo "Installing required packages"
 if ! command_exists wget; then
   # Likely Debian/Ubuntu system
