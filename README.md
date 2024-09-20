@@ -35,5 +35,7 @@ sudo rm /etc/systemd/system/heminetwork.service && \
 sudo systemctl daemon-reload
 ```
 
-- Docs : https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1
-- Aomine from https://discord.gg/aetherealco
+### Author
+- Aomine | https://discord.gg/aetherealco
+- Docs: https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1
+
