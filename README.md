@@ -34,3 +34,6 @@ sudo systemctl disable heminetwork && \
 sudo rm /etc/systemd/system/heminetwork.service && \
 sudo systemctl daemon-reload
 ```
+
+- Docs : https://docs.hemi.xyz/how-to-tutorials/tutorials/setup-part-1
+- Aomine from https://discord.gg/aetherealco
