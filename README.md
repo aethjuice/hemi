@@ -28,6 +28,8 @@ journalctl -u heminetwork -f
 - https://pop-miner.hemi.xyz/fund
 - Paste Private Key
 
+
+### Stop the node
 ```
 sudo systemctl stop heminetwork && \
 sudo systemctl disable heminetwork && \
