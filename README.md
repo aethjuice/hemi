@@ -29,7 +29,7 @@ journalctl -u heminetwork -f
 - Paste Private Key
 
 
-### Stop the node
+### Stop node (optional)
 ```
 sudo systemctl stop heminetwork && \
 sudo systemctl disable heminetwork && \
